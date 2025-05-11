@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kedempluxot.mortoe.com/kedempluxot.txt
